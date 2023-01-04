@@ -1,4 +1,4 @@
-# YourTube
+# 🟥 YourTube 🟥
 Reinventing the YouTube algorithm by giving power back to the user.
 
 ## Demo Video
